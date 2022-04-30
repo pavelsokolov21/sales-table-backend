@@ -1,0 +1,19 @@
+{
+  "name": "sales-table-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelsokolov21/sales-table-backend.git"
+  },
+  "author": "Pavel Sokolov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelsokolov21/sales-table-backend/issues"
+  },
+  "homepage": "https://github.com/pavelsokolov21/sales-table-backend#readme"
+}
